@@ -60,5 +60,8 @@
 * `Pets.txt`: เก็บข้อมูลสัตว์ทั้งหมด (รหัส, ชื่อ, สถานะ)
 * `adoption_requests.txt`: เก็บ Log ประวัติการรับเลี้ยงที่ได้รับการอนุมัติแล้ว
 
----
-*Created by [Your Name]*
+## ✍️ ผู้พัฒนา
+
+* [@Clumsyz1](https://github.com/Clumsyz1)
+
+หากพบปัญหาหรือข้อเสนอแนะ สามารถเปิด Issue หรือ Pull Request ได้เลย 🙌
